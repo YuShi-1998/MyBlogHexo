@@ -1,0 +1,7 @@
+﻿- class_name: 友链
+  #class_desc: 那些人，那些事
+  link_list:
+    - name: ql-isaac
+      link: https://www.ql-isaac.cn/
+      avatar: https://image.ql-isaac.cn/%E7%AB%99%E9%95%BF%E5%A4%B4%E5%83%8F.jpg
+      descr: 向往的大佬

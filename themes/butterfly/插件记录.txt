@@ -1,0 +1,1 @@
+npm install --save hexo-tag-aplayer 音乐插件
