@@ -118,5 +118,9 @@ theme: butterfly
 deploy:
   type: git
   repo: git@github.com:YuShi-1998/YuShi-1998.github.io.git
+<<<<<<< HEAD
+=======
+  branch: master
+>>>>>>> 1d717b63d861c67fc0a98ac934997380176d6178
 aplayer:
     meting: true
