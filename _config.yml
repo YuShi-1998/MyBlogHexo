@@ -116,8 +116,11 @@ theme: butterfly
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: git
-  repo: git@github.com:YuShi-1998/YuShi-1998.github.io.git
-  branch: master
+#  - type: git
+#    repo: git@github.com:YuShi-1998/YuShi-1998.github.io.git
+#    branch: master
+  - type: git
+    repo: git@159.75.9.51:/home/www/blog.git
+    branch: master
 aplayer:
     meting: true
